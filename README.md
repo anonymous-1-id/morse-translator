@@ -25,7 +25,7 @@ Kalau idle **5 detik** → teks kalimat direset.
 ### 1. Clone Repo
 ```bash
 git clone https://github.com/anonymous-1-id/morse-translator.git
-cd morse-hand-translator
+cd morse-translator
 ```
 
 ---
